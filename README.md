@@ -48,8 +48,6 @@ If you find a bug, please open an issue [here](https://github.com/softituz/Proje
 3. Commit your changes
 4. Create a Pull Request
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 Made with ❤️ by [softituz](https://github.com/softituz)
