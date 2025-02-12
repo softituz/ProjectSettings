@@ -1,6 +1,6 @@
 # ProjectSettings
 
-![Unity Logo](https://your-image-url.com)  
+![Unity Logo]([https://](https://companieslogo.com/img/orig/U_BIG.D-a3850c12.png?t=1720244494))  
 A base Unity setup using MVC architecture with Dependency Injection (VContainer), UniRx, and UniTask.
 
 ## 🚀 Features
@@ -9,9 +9,6 @@ A base Unity setup using MVC architecture with Dependency Injection (VContainer)
 - Reactive programming with UniRx
 - Async operations with UniTask
 
-## 📸 Screenshots
-![Screenshot 1](https://your-image-url.com)
-![Screenshot 2](https://your-image-url.com)
 
 ## 🛠 Installation
 ```sh
