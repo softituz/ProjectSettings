@@ -1,6 +1,6 @@
 # ProjectSettings
 
-![Unity Logo]([https://](https://companieslogo.com/img/orig/U_BIG.D-a3850c12.png?t=1720244494))  
+![Unity Logo](https://companieslogo.com/img/orig/U_BIG.D-a3850c12.png?t=1720244494)  
 A base Unity setup using MVC architecture with Dependency Injection (VContainer), UniRx, and UniTask.
 
 ## 🚀 Features
